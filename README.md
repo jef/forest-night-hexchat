@@ -9,6 +9,6 @@
 - If you're on Windows, HexChat comes with a Theme Manager than you can install with the file.
 - Otherwise, unzip the `forest-night.hcl` and place the contents inside `~/.config/hexchat`
 
-### Credits
+## Credits
 
 Based off [sainnhe's Forest Night](https://github.com/sainnhe/forest-night).
